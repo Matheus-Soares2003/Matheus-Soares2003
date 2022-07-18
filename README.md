@@ -1,7 +1,7 @@
 ### Oláa, sou Matheus Soares, estudante de Ciência da Computação e futuro programador👋
 
 - 🔭 Estou em busca de meu primerio trabalho
-- 🌱 Atualmente estou estudando Java e Inteligência Artificial 
+- 🌱 Atualmente estou estudando Python para ciência de dados e Machine Learning 
 
 <div align="center">
   <a href="https://github.com/Matheus-Soares2003">
