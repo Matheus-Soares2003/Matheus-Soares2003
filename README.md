@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento de aplicativos móveis com flutterflow
 - 📖 Estou estudando **Java**, **Angular** e o básico de **Go**
-- 🤖 Já tenho um bom domínio da linguagem **Python** e uso ela pra fazer automações e algumas coisas com dados utilizando o **Pandas**
+- 🤖 Já tenho um bom domínio da linguagem **Python** e uso ela pra fazer automações e fazer operações com dados utilizando o **Pandas**
 
   <div>
     <a href="https://github.com/Matheus-Soares2003">
